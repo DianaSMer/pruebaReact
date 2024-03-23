@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pruebaReact/static/css/main.e842d775.css",
+    "main.js": "/pruebaReact/static/js/main.3dfd0e7f.js",
+    "static/js/453.d855a71b.chunk.js": "/pruebaReact/static/js/453.d855a71b.chunk.js",
+    "static/media/Banner.png": "/pruebaReact/static/media/Banner.3a18c715094adbf4b488.png",
+    "static/media/Rectangle 1.png": "/pruebaReact/static/media/Rectangle 1.2bfcab28908883527107.png",
+    "static/media/Product Image.png": "/pruebaReact/static/media/Product Image.14630004ff27b623d52f.png",
+    "index.html": "/pruebaReact/index.html",
+    "main.e842d775.css.map": "/pruebaReact/static/css/main.e842d775.css.map",
+    "main.3dfd0e7f.js.map": "/pruebaReact/static/js/main.3dfd0e7f.js.map",
+    "453.d855a71b.chunk.js.map": "/pruebaReact/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e842d775.css",
+    "static/js/main.3dfd0e7f.js"
+  ]
+}
