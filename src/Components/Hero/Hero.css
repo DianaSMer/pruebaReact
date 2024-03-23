@@ -1,0 +1,21 @@
+.hero-center {
+    position: relative;
+  }
+  
+  .background-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .overlay-image {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(60%, -50%);
+  }
+  
+  .foreground-image {
+    width: 70%; 
+    height: auto; 
+
+  }
